@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "b101",
+  "siteUrl": "https://b101.site/",
+  "description": "b101 - dicas para quem quer se aventurar por Azeroth (e além)",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Bem-vindo ao b101",
+    "description": "A ideia aqui é ter alguns artigos com dicas sobre raides, masmorras e colecionáveis"
   }
 }
