@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-url:                   https://calixtojj.github.io/b101
+# url:                   https://calixtojj.github.io/b101
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
@@ -45,7 +45,7 @@ author:
   name:                <firstname> <lastname>
   email:               <mail@domain.tld>
   # # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  twitter:             b101eu
 
 # Add links to the sidebar.
 menu:
@@ -350,8 +350,8 @@ plugins:
 #   yandex:              <verification-id>
 
 # Used for twitter cards
-# twitter:
-#   username:            <username>
+twitter:
+  username:            b101eu
 
 # Used for facebook open graph
 # facebook:
@@ -360,10 +360,10 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
+social:
 #   name:                <firstname> <lastname>
-#   links:
-#     - https://twitter.com/<username>
+  links:
+    - https://twitter.com/b101eu
 #     - https://github.com/<username>
 
 
